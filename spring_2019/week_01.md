@@ -1,24 +1,17 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+This past week, I assisted other members of the team in installing AGENCY to a PostgreSQL server, and made note of the location of several Fix Me comments
+in the code of AGENCY. I also documented the steps taken in installing AGENCY so far, with the goal of creating a new installation guide.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+I plan on continuing to track Fix Me comments in the code, in order to create a comprehensive issue tracker. Once progress is made on that, I will start writing
+a test suite for the code base. I also intend to continue work on the new AGENCY installation guide.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+The team has yet to be able to install the program, so there's still a lot missing from our understanding of it. Therefore, it's difficult to begin planning or writing
+a test suite for the code base, because the expected behavior is still unknown.
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
