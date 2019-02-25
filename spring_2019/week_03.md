@@ -1,17 +1,18 @@
 ## Last Week's Accomplishments
 
-This past week, I spent most of my time adding to the issue tracking document I created last week, adding over 70 issues and
-bug reports. I also began planning unit tests for the codebase in pseudocode.
+I spent the past week adding to the issue tracker, and further studying the code. I referred to several PHP and SQL tutorials to enhance my understanding,
+and created more pseudocode unit test cases. I also contributed to a group meeting in which we significantly restructured out project organization, and took
+on the role of helping others understand the code and enhancing the code's documentation.
 
 ## This Week's Plan
 
-I plan to continue adding to the issue tracker. I also plan to write more pseudocode tests, and begin work on translating
-them into tests in the appropriate languages for the project.
+I plan to continue adding to the issue tracker. Additionally, I plan to conitnue studying the code, and adding comments where I feel my understanding
+is strong enough to do so. I will also continue planning unit tests, although converting them to actual code will be delayed as the group
+focuses on understanding what code is already there.
 
 ## Anything Blocking?
 
-We still do not have a working installation of the program, so there are still difficulties in ascertaining the expected
-behavior of the code. A lack of familiarity with the languages of the program also blocks progress, but continued study of
-the code is starting to mitigate that issue.
+The lack of an installation of the project is still an issue, but restructuring of the project subgroups has enabled us to start making progress
+in other regards, and study of the code has further mitigated the blocking of our unfamiliarity.
 
 ## Notes
