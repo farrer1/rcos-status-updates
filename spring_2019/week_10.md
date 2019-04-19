@@ -13,3 +13,5 @@ Nothing in particular.
 Over the course of this semester, I spent most of my time reading the code and writing documentation for it.
 As a result of these efforts, I've produced some new, more detailed documentation for some of the files that make up AGENCY, so that future
 members of the project can be onboarded more quickly than we were as the first RCOS group to work on this.
+Additionally, I made significant progress in planning unit tests for the Auth class of AGENCY. I plan to use that work as a starting pint
+for continued work on this project over the summer.
